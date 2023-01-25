@@ -35,6 +35,20 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-simple-->
+
+```text
+From: 17 September 2019 - To: 25 January 2023
+
+Total Time: 52 hrs 6 mins
+
+JavaScript   36 hrs 49 mins  █████████████████▓░░░░░░░   70.68 %
+Dart         11 hrs 10 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
+Python       2 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Java         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+JSON         19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+```
+
 <!--END_SECTION:waka-simple-->
 
 
