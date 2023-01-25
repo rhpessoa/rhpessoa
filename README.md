@@ -33,6 +33,48 @@
 </p>
 <!-- Status -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2011%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    9 commits      ██████░░░░░░░░░░░░░░░░░░░   23.68% 
+🌆 Daytime    13 commits     ████████░░░░░░░░░░░░░░░░░   34.21% 
+🌃 Evening    13 commits     ████████░░░░░░░░░░░░░░░░░   34.21% 
+🌙 Night      3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            █████████████░░░░░░░░░░░░   52.17% 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+
+```
+
+
+
+ Last Updated on 25/01/2023 20:12:31 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-simple-->
 
