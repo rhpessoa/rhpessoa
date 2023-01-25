@@ -1,12 +1,35 @@
-# 💫 About Me:
-Graduado em Bacharelado em Sistemas de Informação, possuo experiência prática como desenvolvedor Front-end atuando com desenvolvimento responsivo utilizando ferramentas React.JS com TypeScript e Next.JS além de gerenciamento de estado global com Context-API. <br>Atualmente estou fazendo cursos na área do Front-end, estudando HTML e CSS dando ênfase em desenvolvimento responsivo e mobile first. Além disso, estou atualizando os meus conhecimentos da língua inglesa por intermédio da plataforma Alura Línguas.<br>Sou uma pessoa paciente, me considero um profissional flexível, comunicativo e proativo além de possuir facilidade para lidar com altas demandas.
+<!-- Header typing -->
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=27&duration=2500&pause=&color=FFA500&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=115&lines=Hi+There+%F0%9F%91%8B;I'm+Rafael+Henrique.;Nice+to+meet+you!" alt="Typing SVG" /></a>
+</h1>
+<!-- Social media and Contact  -->
+<h3 align="left">Contact me:</h3>
+<div align="left">
+<a href = "mailto:rhpessoa29@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/rhpessoa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+</a>
+<!-- Languages and Tools -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+</a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+</p>
+<!-- Status -->
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhpessoa/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
