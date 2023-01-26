@@ -112,6 +112,7 @@ Java         34 mins         ▒░░░░░░░░░░░░░░░░
 JSON         19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
+
 <!--END_SECTION:waka-simple-->
 
 ###  My Projects:
