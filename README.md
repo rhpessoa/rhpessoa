@@ -55,22 +55,19 @@
 <!-- Status -->
 ### My Github Data:
 <!--START_SECTION:waka-->
-<div align="left">
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2027%20mins-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2011%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40%20Thousand%20lines%20of%20code-blue)
-</div>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    9 commits      ██████░░░░░░░░░░░░░░░░░░░   23.68% 
-🌆 Daytime    13 commits     ████████░░░░░░░░░░░░░░░░░   34.21% 
-🌃 Evening    13 commits     ████████░░░░░░░░░░░░░░░░░   34.21% 
-🌙 Night      3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
+🌞 Morning    9 commits      █████░░░░░░░░░░░░░░░░░░░░   21.95% 
+🌆 Daytime    14 commits     ████████░░░░░░░░░░░░░░░░░   34.15% 
+🌃 Evening    15 commits     █████████░░░░░░░░░░░░░░░░   36.59% 
+🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
 
 ```
 
@@ -99,7 +96,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2023 20:12:31 UTC
+ Last Updated on 26/01/2023 00:35:43 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-simple-->
 
