@@ -1,6 +1,6 @@
 <!-- Header typing -->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=27&duration=2500&pause=&color=FFA500&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=115&lines=Hi+There+%F0%9F%91%8B;I'm+Rafael+Henrique.;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded+&size=28&duration=3500&color=F7973A&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=120&lines=Hi+There+%F0%9F%91%8B;I'm+Rafael+Henrique.;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </h1>
 <!-- Social media and Contact  -->
 <div align="center">
