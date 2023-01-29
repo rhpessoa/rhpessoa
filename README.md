@@ -11,17 +11,19 @@
 </div>
 </a>
 
+
 ## <!-- About me -->
 
 ### About me:
 
 - :mortar_board: &nbsp; I graduated in Information System - UFRA; 
 - :writing_hand: &nbsp; I’m currently learning Next.js; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rhpessoa?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech or games related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rhpessoa/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/13cC4iR6E_9gd57ogUpOgXBsGQnp06Ce_/view?usp=share_link)
-- :video_game: &nbsp; When I am free, I play FPS with friends.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rhpessoa?tab=repositories);
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rhpessoa/);
+- 📝 &nbsp; Checkout my [resume](https://github.com/rhpessoa/rhpessoa/files/10530693/RafaelHenriqueCV.pdf);
+- 💬 &nbsp; Ask me about anything tech or geek culture related, I am happy to talk about;
+- :video_game: &nbsp; When I am free, I like to play CS GO with friends.
+
 
 ## <!-- Languages and Tools -->
 
@@ -121,6 +123,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 ###  My Projects:
 
 - [AluraTube](https://github.com/rhpessoa/aluratube)
+- [AluraBooks](https://github.com/rhpessoa/alurabooks)
 
 
 
