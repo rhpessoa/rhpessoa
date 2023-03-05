@@ -123,5 +123,4 @@ Other        1 hr 46 mins    ▒░░░░░░░░░░░░░░░░
 ###  My Projects:
 
 - [buddy-match](https://github.com/rhpessoa/buddy-match)
-- [AluraTube](https://github.com/rhpessoa/aluratube)
 - [AluraBooks](https://github.com/rhpessoa/alurabooks)
