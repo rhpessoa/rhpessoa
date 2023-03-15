@@ -20,7 +20,7 @@
 - :writing_hand: &nbsp; I’m currently learning Next.js; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rhpessoa?tab=repositories);
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rhpessoa/);
-- 📝 &nbsp; Checkout my [Resume](https://github.com/rhpessoa/rhpessoa/files/10892187/Cv.Rafael.Henrique.-.Desenvolvedor.Front-end.docx.pdf)
+- 📝 &nbsp; Checkout my [Resume](https://github.com/rhpessoa/rhpessoa/files/10985382/Cv.Rafael.Henrique.-.Desenvolvedor.Front-end.docx.pdf)
 - 💬 &nbsp; Ask me about anything tech or geek culture related, I am happy to talk about;
 - :video_game: &nbsp; When I am free, I like to play CS GO with friends.
 
@@ -117,4 +117,4 @@ Other        1 hr 46 mins    ▒░░░░░░░░░░░░░░░░
 ###  My Projects:
 
 - [buddy-match](https://github.com/rhpessoa/buddy-match)
-- [AluraBooks](https://github.com/rhpessoa/alurabooks)
+- [CodeChella](https://github.com/rhpessoa/CodeChella)
