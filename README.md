@@ -105,7 +105,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 17 September 2019 - To: 02 June 2023
+From: 17 September 2019 - To: 03 June 2023
 
 Total Time: 132 hrs 26 mins
 
