@@ -17,12 +17,12 @@
 ### About me:
 
 - :mortar_board: &nbsp; I graduated in Information System - UFRA; 
-- :writing_hand: &nbsp; I’m currently learning Next.js; 
+- :writing_hand: &nbsp; I’m currently learning .NET; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rhpessoa?tab=repositories);
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rhpessoa/);
-- 📝 &nbsp; Checkout my [Resume](https://github.com/rhpessoa/rhpessoa/files/11943472/Curriculo.Rafael.Henrique.-.Desenvolvedor.Front-end.pdf)
+- 📝 &nbsp; Checkout my [Resume](https://github.com/rhpessoa/rhpessoa/files/12848470/Curriculo.Rafael.Henrique.-.Desenvolvedor.FullStack.pdf)
 - 💬 &nbsp; Ask me about anything tech or geek culture related, I am happy to talk about;
-- :video_game: &nbsp; When I am free, I like to play CS GO with friends.
+- :video_game: &nbsp; When I am free, I like to study new technologies.
 
 
 ## <!-- Languages and Tools -->
@@ -35,10 +35,15 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
 </a>
+ <a href="https://https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
+</a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank" rel="noreferrer"> <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="csharp" width="50" height="50"/> 
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+</a>
+ <a href="https://angular.io/start" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/>
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/42783697/214694586-dcf53f4d-2975-4522-b3c3-bca277db1695.png" alt="nextjs" width="50" height="50"/> 
 </a> 
@@ -47,8 +52,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://user-images.githubusercontent.com/42783697/214711180-51e29433-171a-4079-9ac2-b80122beba2a.png" alt="Styled-Components" width="50" height="50"/>
-
-
 </a>
 </p>
 
@@ -116,5 +119,4 @@ Other        1 hr 57 mins    ▒░░░░░░░░░░░░░░░░
 
 ###  My Projects:
 
-- [buddy-match](https://github.com/rhpessoa/buddy-match)
 - [CodeChella](https://github.com/rhpessoa/CodeChella)
