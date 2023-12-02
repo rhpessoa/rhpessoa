@@ -104,7 +104,7 @@ Elixir                   2 repos             ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 17 September 2019 - To: 29 November 2023
+From: 17 September 2019 - To: 01 December 2023
 
 Total Time: 159 hrs 11 mins
 
