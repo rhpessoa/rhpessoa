@@ -60,6 +60,8 @@
 <!-- Status -->
 ### My Github Data:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2011%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.2%20thousand%20lines%20of%20code-blue)
@@ -67,9 +69,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-🌆 Daytime                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-🌃 Evening                632 commits         ██████████████████████░░░   88.89 % 
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+🌆 Daytime                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+🌃 Evening                634 commits         ██████████████████████░░░   88.92 % 
 🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
@@ -97,7 +99,7 @@ Elixir                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 00:32:23 UTC
+ Last Updated on 08/12/2023 00:32:52 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-simple-->
 
