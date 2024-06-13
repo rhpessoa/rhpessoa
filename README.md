@@ -20,10 +20,9 @@
 - :writing_hand: &nbsp; I’m currently learning .NET; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rhpessoa?tab=repositories);
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rhpessoa/);
-- 📝 &nbsp; Checkout my [Resume](https://github.com/rhpessoa/rhpessoa/files/12848470/Curriculo.Rafael.Henrique.-.Desenvolvedor.FullStack.pdf)
+- 📝 &nbsp; Checkout my [Resume](https://github.com/user-attachments/files/15825738/CurriculoRafaelSilva-Dev-Front-end.pdf)
 - 💬 &nbsp; Ask me about anything tech or geek culture related, I am happy to talk about;
 - :video_game: &nbsp; When I am free, I like to study new technologies.
-
 
 ## <!-- Languages and Tools -->
 
