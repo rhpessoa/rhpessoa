@@ -59,11 +59,31 @@
 <!-- Status -->
 ### My Github Data:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113.54%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113.54%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+🌆 Daytime                121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+🌃 Evening                1792 commits        ███████████████████████░░   91.34 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -78,7 +98,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:58:15 UTC
+ Last Updated on 06/01/2026 01:48:58 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-simple-->
 
